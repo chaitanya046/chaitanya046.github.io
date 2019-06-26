@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Chaitanya Uttarwar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Programming Portfolio"
+  bio              : "Career Portfolio"
   location         : "Waterloo,ON"
   email            : #email
   links:
@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chaitanya046"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chaitanya-uttarwar-32615555/"
 
 # Site Footer
