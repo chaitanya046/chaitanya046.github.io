@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:chaitanyauttarwar046@gmail.com
+      #url: mailto:chaitanyauttarwar046@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chaitanya046"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedIn"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.linkedin.com/in/chaitanya-uttarwar-32615555/"
 
 # Site Footer
