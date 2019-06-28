@@ -7,4 +7,4 @@ header:
   image: "/images/session_2.jpg"
 ---
 
-I am an junior java developer.
+I am a java developer.
