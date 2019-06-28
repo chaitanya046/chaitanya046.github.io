@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://chaitanya046.github.io/
-  - title: "Categories"
-    url: https://chaitanya046.github.io/categories/
+  - title: "Projects"
+    url: https://chaitanya046.github.io/projects/
   - title: "About"
     url: https://chaitanya046.github.io/about/
   # - title: "About"
