@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-header: 
+layout: archive
+header:
 	image: "/images/session_2.jpg"
 ---
 
