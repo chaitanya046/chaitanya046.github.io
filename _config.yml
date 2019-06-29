@@ -242,6 +242,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /projects/
+  permalink: /:projects/:title/
 tag_archive:
   type: liquid
   path: /tags/
