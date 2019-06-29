@@ -4,7 +4,7 @@ classes: wide
 title:  "DIY - Wireless Rover"
 date: 2019-04-27
 categories:
-  - "Arduino"
+  - "Projects"
 tags:
   - machines
   - DIY
