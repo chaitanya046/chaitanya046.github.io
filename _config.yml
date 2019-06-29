@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Chaitanya Uttarwar"
   avatar           : "/images/icon_profile.jpg"
-  bio              : "Graduate Student @Conestoga, Pursuing Mobile SOlutions Development."
+  bio              : "Graduate Student @Conestoga, Pursuing Mobile Solutions Development."
   location         : "Waterloo,ON"
   email            : #email
   links:
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
