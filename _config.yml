@@ -96,7 +96,7 @@ author:
   avatar           : "/images/icon_profile.jpg"
   bio              : "Graduate Student @Conestoga, Pursuing Mobile Solutions Development."
   location         : "Waterloo,ON"
-  email            : #email
+  email            : "mailto:chaitanyauttarwar046@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,6 +116,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chaitanya-uttarwar-32615555/"
+      label: "Résumé"
+      icon: "fab fa-fw fa-linkedin"
+      url: "/assets/resume.pdf"
 
 # Site Footer
 footer:
