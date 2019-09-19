@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chaitanya-uttarwar-32615555/"
     - label: "Résumé"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fas fa-file"
       url: "/assets/resume.pdf"
 
 # Site Footer
