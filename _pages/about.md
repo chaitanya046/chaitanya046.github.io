@@ -7,4 +7,6 @@ header:
   image: "/images/session_2.jpg"
 ---
 
-I am a java developer.
+Hi There,
+My name is Chaitanya Uttarwar, people often call me Chitti.
+Known as Java Stack developer with over 2 years of experience. 
