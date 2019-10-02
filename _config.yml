@@ -119,6 +119,9 @@ author:
     - label: "Résumé"
       icon: "fas fa-file"
       url: "/assets/resume.pdf"
+      label: "Plum Profile"
+      icon: "fas fa-file"
+      url: "https://secure.plum.io/p/5CZ-2WZh1TjBf5mCOITnAw"
 
 # Site Footer
 footer:
