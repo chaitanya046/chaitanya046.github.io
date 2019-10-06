@@ -8,11 +8,12 @@ header:
 ---
 
 Hi There,
-My name is Chaitanya Uttarwar, people often call me Chitti.\n
-I am a Java tech stack developer with over 2 years of experience. \n
-I was working with a multinational company back in India. Where I contributed, managed and tested a web app.\n
-My area of expertise are: \n
-  *SpringBoot
-  *Amazon AWS
-  *RESTful APIs
-  *SOAP
+My name is Chaitanya Uttarwar, people often call me Chitti.\
+I am a Java tech stack developer with over 2 years of experience. \
+I was working with a multinational company back in India. Where I contributed, managed and tested a web app.\
+My area of expertise are: \
+
+   - SpringBoot
+   - Amazon AWS
+   - RESTful APIs
+   - SOAP
