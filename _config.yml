@@ -122,6 +122,12 @@ author:
     - label: "Plum Profile"
       icon: "fas fa-file"
       url: "https://secure.plum.io/p/5CZ-2WZh1TjBf5mCOITnAw"
+    - label: "Stack Overflow"
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/4349146/chaitanya-uttarwar"
+    - label: "Wikipedia"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/User:Chitti93"            
 
 # Site Footer
 footer:
