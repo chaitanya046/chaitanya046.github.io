@@ -11,8 +11,13 @@ Hi There,
 My name is Chaitanya Uttarwar, people often call me Chitti.  
 I am a Java tech stack developer with over 2 years of experience.  
 I was working with a multinational company back in India. Where I contributed, managed and tested a web app.  
-My area of expertise are:  
+I currently work(Part time) as a Full Stack developer at Manulife Canada.
+My areas of expertise are:  
    - SpringBoot
    - Amazon AWS
    - RESTful APIs
    - SOAP
+   - React
+   - SQL
+   - Node
+   - Pivotal Cloud Foundry
