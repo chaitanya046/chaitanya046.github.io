@@ -10,8 +10,7 @@ header:
 Hi There,
 My name is Chaitanya Uttarwar, people often call me Chitti.  
 I am a Java tech stack and database developer with over 3 years of experience.  
-I was working with a multinational company back in India. Where I contributed, managed and tested a web app.  
-I currently work(Part time) as a Full Stack developer at Manulife Canada.  
+I was working with a multinational company back in India. Where I contributed, managed and tested a web app.    
 My areas of expertise are:  
    - SpringBoot
    - Amazon AWS
@@ -25,4 +24,4 @@ My areas of expertise are:
    - .NET
    - Kafka
    - MessagePoint
-   - Katlon 
+   - Katlon
