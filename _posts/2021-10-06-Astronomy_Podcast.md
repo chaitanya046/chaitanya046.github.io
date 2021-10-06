@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Started Astronomy Podcast"
+title:  "Started an Astronomy Podcast"
 date: 2021-10-06
 categories:
   - "Projects"
