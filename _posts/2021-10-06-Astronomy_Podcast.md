@@ -17,5 +17,5 @@ Ever wondered how vast is our space and how tiny are we? Why do stars twinkle? W
 What is beyond the solar system?
 In this podcast, we talk about Stars, Black holes, Planets, Satellites, Rockets, and everything in Space.
 
-Listen to it on public platforms: [Anchor Page](https://anchor.fm/chaitanya-uttarwar)
+Listen to it on public platforms: [Anchor Page](https://anchor.fm/chaitanya-uttarwar),
                                   [Podvine](https://podvine.com/podcast/astronomy-in-marathi)

@@ -128,6 +128,9 @@ author:
     - label: "Wikipedia"
       icon: "fab fa-wikipedia-w"
       url: "http://bit.ly/chaitanyaWikipedia"
+    - label: "Anchor FM"
+      icon: "fab fa-podcast"
+      url: "http://bit.ly/chaitanyaPodcasts"
 
 # Site Footer
 footer:
