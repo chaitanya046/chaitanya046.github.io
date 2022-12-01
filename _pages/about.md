@@ -9,8 +9,9 @@ header:
 
 Hi There,
 My name is Chaitanya Uttarwar, people often call me Chitti.  
-I am a Java tech stack and database developer with over 3 years of experience.  
-I was working with a multinational company back in India. Where I contributed, managed and tested a web app.    
+I am a C# tech stack and database developer with over 4 years of experience.  
+I also love Astronomy, Rocketry and Trains. In my free time I like to Stargaze, Play music and do Paintings. 
+
 My areas of expertise are:  
    - SpringBoot
    - Amazon AWS
@@ -25,3 +26,5 @@ My areas of expertise are:
    - Kafka
    - MessagePoint
    - Katlon
+   - Kubernetes
+   - Kafka
