@@ -27,4 +27,3 @@ My areas of expertise are:
    - MessagePoint
    - Katlon
    - Kubernetes
-   - Kafka
