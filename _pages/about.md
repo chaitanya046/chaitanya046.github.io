@@ -12,7 +12,7 @@ Hi there, my name is Chaitanya and I am a software developer with around 4 years
 I have experience working on both front-end and back-end development, as well as experience with agile methodologies. My passion for technology and problem-solving allows me to consistently deliver high-quality, reliable software solutions. Whether you need a new application or an upgrade to an existing one, I am confident that I can help bring your vision to life.
 
 In my current role, I am responsible for developing new ways to improve system efficiency and create new features for better user experience. I am excited to continue learning and growing as a developer, and am always looking for new challenges and opportunities to expand my skillset.
-I am among top contributers for improving UI/UX for companies such as Hinge, Walmart, Rodgers, NFL and Google.
+I am among top contributers for improving UI/UX for companies such as Hinge, Walmart, Rogers, NFL and Google.
 
 My areas of expertise are:  
    - SpringBoot
