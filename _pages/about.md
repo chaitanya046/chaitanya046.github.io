@@ -7,10 +7,8 @@ header:
   image: "/images/session_2.jpg"
 ---
 
-Hi There,
-My name is Chaitanya Uttarwar, people often call me Chitti.  
-I am a C# tech stack and database developer with over 4 years of experience.  
-I also love Astronomy, Rocketry and Trains. In my free time I like to Stargaze, Play music and do Paintings. 
+Hi there, my name is Chaitanya and I am a software developer with around 4 years of experience working with .NET technologies. I have a strong understanding of the .NET framework and have experience working on a variety of projects. In my current role, I am responsible for developing new ways to improve system efficiency and create new features for better user experience. I am excited to continue learning and growing as a developer, and am always looking for new challenges and opportunities to expand my skillset.
+I am among top contributers for improving UI/UX for companies such as Hinge, Walmart, Rodgers, NFL and Google. 
 
 My areas of expertise are:  
    - SpringBoot
@@ -27,3 +25,5 @@ My areas of expertise are:
    - MessagePoint
    - Katlon
    - Kubernetes
+   - UX/UI
+   - Ui Path
