@@ -8,4 +8,4 @@ header:
 ---
 
          This is a door page to open the door. 
-         [button url="http://www.google.com"]
+         <button name="button" onclick="http://www.google.com">Click me</button>
