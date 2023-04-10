@@ -6,3 +6,5 @@ author_profile: true
 header:
   image: "/images/door.jpg"
 ---
+
+This is a door page to open the door. 
