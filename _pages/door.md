@@ -1,7 +1,7 @@
 ---
 title: "Door"
 permalink: /door/
-layout: page
+layout: archive
 author_profile: true
 header:
   image: "/images/door.jpg"
