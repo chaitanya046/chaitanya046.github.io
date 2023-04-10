@@ -14,8 +14,6 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% include button.html button_name="My Button" button_class="primary" %}
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -24,5 +22,8 @@ layout: default
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+  </div>
+  <div class="button">
+    {% include button.html button_name="Open Door" button_class="primary" %}
   </div>
 </div>
