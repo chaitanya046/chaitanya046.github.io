@@ -1,11 +1,10 @@
 ---
 title: "Door"
 permalink: /door/
-layout: page
+layout: archive
 author_profile: true
 header:
-  image: "/images/door.jpg"
 ---
 
          This is a door page to open the door. 
-{% include button.html button_name="My Button" button_class="primary" %}
+{% include button.html button_name="Open Door" button_class="primary" %}
