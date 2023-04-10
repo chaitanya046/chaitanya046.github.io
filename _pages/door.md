@@ -1,6 +1,6 @@
 ---
 title: "Door"
-permalink: /projects/
+permalink: /door/
 layout: archive
 author_profile: true
 header:
