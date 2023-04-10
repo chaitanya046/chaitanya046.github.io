@@ -1,7 +1,7 @@
 ---
 title: "Door"
 permalink: /door/
-layout: single
+layout: page
 author_profile: true
 header:
   image: "/images/door.jpg"
