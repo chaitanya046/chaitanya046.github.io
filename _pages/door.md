@@ -8,5 +8,6 @@ header:
 ---
 
          This is a door page to open the door. 
-         {% include button.html url="http://www.google.com" %}
-         
+         ```html         
+<button onclick="window.location.href='www.google.com';">Click</button>
+```
