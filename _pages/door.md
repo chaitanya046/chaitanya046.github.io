@@ -7,4 +7,5 @@ header:
   image: "/images/door.jpg"
 ---
 
-This is a door page to open the door. 
+         This is a door page to open the door. 
+         [button url="http://www.google.com"]
