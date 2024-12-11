@@ -7,7 +7,7 @@ header:
   image: "/images/session_2.jpg"
 ---
 
-Hi there, my name is Chaitanya and I am a software developer with around 4 years of experience working with .NET technologies. I have a strong understanding of the .NET framework and have experience working on a variety of projects. 
+Hi there, my name is Chaitanya and I am a software developer with around 5 years of experience working with .NET technologies. I have a strong understanding of the .NET framework and have experience working on a variety of projects. 
 
 I have experience working on both front-end and back-end development, as well as experience with agile methodologies. My passion for technology and problem-solving allows me to consistently deliver high-quality, reliable software solutions. Whether you need a new application or an upgrade to an existing one, I am confident that I can help bring your vision to life.
 
@@ -20,9 +20,10 @@ My areas of expertise are:
    - RESTful APIs
    - SOAP
    - React
-   - SQL
    - Node
    - Pivotal Cloud Foundry
+   - Microsoft Datalakes
+   - EC2
    - Databases(MySQL, SQLite, Azure etc)
    - .NET
    - Kafka
