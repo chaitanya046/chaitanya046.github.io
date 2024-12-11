@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Featured in Astronomy Podcast"
+title:  "Featured in an Astronomy Podcast"
 date: 2024-12-08
 categories:
   - "Podcast"
