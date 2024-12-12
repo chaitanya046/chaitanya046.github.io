@@ -4,4 +4,4 @@ permalink: /holidays/
 layout: archive
 author_profile : true
 ---
-![Image](/images/wish.jpg){: width="250" }
+![Image](/images/wish.jpg){: width="950" }
