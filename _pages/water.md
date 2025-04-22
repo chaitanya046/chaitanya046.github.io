@@ -1,7 +1,7 @@
 ---
 title: "Water Intake"
 permalink: /water/
-layout: water
+layout: archive
 author_profile: true
 header:
 ---
