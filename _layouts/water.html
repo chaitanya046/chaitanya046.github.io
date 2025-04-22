@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="/assets/css/water-tracker.css">
+<script src="/assets/js/water-tracker.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Intake Tracker</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/water-tracker.css">
+</head>
+<body>
+    <header class="page__header">
+        <h1>Water Intake Tracker</h1>
+    </header>
+    <main id="main">
+        <section class="water-tracker">
+            <h2>Track Your Daily Water Intake</h2>
+            <div class="water-input">
+                <label for="waterAmount">Enter Water Intake (ml):</label>
+                <input type="number" id="waterAmount" placeholder="e.g., 250">
+                <button id="addWater" class="btn btn-primary">Add</button>
+            </div>
+            <div class="water-progress">
+                <h3>Daily Progress</h3>
+                <div class="progress-bar">
+                    <div id="progressFill" class="progress-fill"></div>
+                </div>
+                <p id="progressText">0 / 2000 ml</p>
+            </div>
+            <div class="water-history">
+                <h3>History</h3>
+                <ul id="historyList"></ul>
+            </div>
+        </section>
+    </main>
+    <footer class="page__footer">
+        <p>&copy; 2025 Slay Kernels</p>
+    </footer>
+    <script src="/assets/js/water-tracker.js"></script>
+</body>
+</html>

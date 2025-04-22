@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.page__header {
+    background-color: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.water-tracker {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .water-tracker h2, .water-tracker h3 {
+        text-align: center;
+        color: #0077b6;
+    }
+
+.water-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+    .water-input input {
+        flex: 1;
+        padding: 0.5rem;
+        margin-right: 0.5rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .water-input .btn {
+        padding: 0.5rem 1rem;
+        background-color: #0077b6;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .water-input .btn:hover {
+            background-color: #005f8a;
+        }
+
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+}
+
+.progress-fill {
+    height: 100%;
+    width: 0;
+    background-color: #0077b6;
+    transition: width 0.3s ease-in-out;
+}
+
+.water-history ul {
+    list-style: none;
+    padding: 0;
+}
+
+.water-history li {
+    background: #f0f0f0;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 4px;
+}
