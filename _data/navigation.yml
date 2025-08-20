@@ -4,7 +4,7 @@ main:
     url: https://chaitanya046.github.io/
   - title: "About"
     url: https://chaitanya046.github.io/about/
-  - title: "Holiday Wishes"
-    url: https://chaitanya046.github.io/holidays/
-  - title: "Water Tracker"
-    url: https://chaitanya046.github.io/water/
+ # - title: "Holiday Wishes"
+  #  url: https://chaitanya046.github.io/holidays/
+ # - title: "Water Tracker"
+  #  url: https://chaitanya046.github.io/water/
